@@ -11443,7 +11443,8 @@ html {
 }
 .masthead .masthead-avatar {
   width: 15rem;
-  margin: 10px;
+  margin: 100px;
+  border-radius: 100%;  
 }
 
 @media (min-width: 992px) {
